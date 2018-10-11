@@ -2,7 +2,7 @@
 
 In order to have all API keys required they are encrypted and committed to the repository.
 
-- This requires the `key.txt` file which can be obtained by contacting `nicholasadamouemail@gmail.com`. `key.txt` should be placed in this folder.
+- This requires the `key.txt` file. `key.txt` should be placed in this folder.
 
 - Currently only files with `.json` extensions are supported.
 
