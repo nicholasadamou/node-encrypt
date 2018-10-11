@@ -1,0 +1,21 @@
+{
+    "name": "node-encrypt",
+    "version": "0.1.0",
+    "private": true,
+    "devDependencies": {
+        "crypto-json": "^2.0.0",
+        "envfile": "^2.3.0",
+        "husky": "^0.14.3",
+        "json": "^9.0.6",
+        "secure-env": "^1.0.0"
+    },
+    "husky": {
+        "hooks": {
+            "post-merge": "yarn decrypt"
+        }
+    },
+    "scripts": {
+        "encrypt": "node ./_secrets/encrypt.js",
+        "decrypt": "node ./_secrets/decrypt.js"
+    }
+}
