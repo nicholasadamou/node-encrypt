@@ -7,7 +7,7 @@
         "envfile": "^3.0.0",
         "husky": "^3.0.8",
         "json": "^9.0.6",
-        "secure-env": "^1.0.0"
+        "secure-env": "^1.1.0"
     },
     "husky": {
         "hooks": {

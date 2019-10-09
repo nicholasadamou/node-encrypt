@@ -432,10 +432,10 @@ run-node@^1.0.0:
   resolved "https://registry.yarnpkg.com/run-node/-/run-node-1.0.0.tgz#46b50b946a2aa2d4947ae1d886e9856fd9cabe5e"
   integrity sha512-kc120TBlQ3mih1LSzdAJXo4xn/GWS2ec0l3S+syHDXP9uRr0JAT8Qd3mdMuyjqCzeZktgP3try92cEgf9Nks8A==
 
-secure-env@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/secure-env/-/secure-env-1.0.0.tgz#c924b20d55dedf1fe79aefc8ca468fc31fe62df3"
-  integrity sha512-UzFDwa32C1SjHDxI3+I+Z7tC98eD2MBo05ejSYnNiMjYVljdZT/Otx962lCY14pKtSreB8NoyMUAxQnyqexWGQ==
+secure-env@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/secure-env/-/secure-env-1.1.0.tgz#00192b798c90a23949d3de4643d2cde8c96afee6"
+  integrity sha512-du/9lYfop4WLnIyd166eYxW5wfN/RvQ0L4sD5LYnPDF2tPcv8j/MocLQvO4fVwJ31KIBf2LsCR0XkgrD/CXr9g==
   dependencies:
     minimist "^1.2.0"
 
