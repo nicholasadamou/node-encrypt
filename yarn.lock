@@ -23,13 +23,12 @@
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
   integrity sha512-f5j5b/Gf71L+dbqxIpQ4Z2WlmI/mPJ0fOkGGmFgtb6sAu97EPczzbS3/tJKxmcYDj55OX6ssqwDAWOHIYDRDGA==
 
-ambi@^5.1.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/ambi/-/ambi-5.2.0.tgz#7afa3fe907f7cc577855ec67c9fdc0fd1517bfe4"
-  integrity sha512-S7ngGjkWoYK69OQQYzgLFokIZrg0a7aFQd9KkKkVB9kGsWzbiCs0dxt7qfoaGwRm4FNGslCNu7msEbosd77Siw==
+ambi@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/ambi/-/ambi-6.0.0.tgz#d8f000c09209adf7d79ee76410973646536e3206"
+  integrity sha512-Rip1eGjDuGY6LoJZXKxdEeYrHWF4nr0uFG3yp3JXW0qOGIdu6o/epJbjof6CYz2anTqTsMEPg3aRlWV3CqioYQ==
   dependencies:
-    editions "^2.2.0"
-    typechecker "^4.9.0"
+    typechecker "^4.10.0"
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -116,13 +115,12 @@ crypto-json@^2.0.0:
   resolved "https://registry.yarnpkg.com/crypto-json/-/crypto-json-2.0.2.tgz#bd961e362ac8ab82d06374207e1aead52ed0e56f"
   integrity sha512-LRLJyAqG58g9cnm9S190ftyz3wq9YwDQVOqYcjuess1gQ+kwm46qzwd9hWzKgCxhZ1ScIP9SVPq0KY1AMWkqwQ==
 
-eachr@^3.2.0:
-  version "3.3.0"
-  resolved "https://registry.yarnpkg.com/eachr/-/eachr-3.3.0.tgz#11f7287be7d31d6b99947fe0d8a79de99ac2a469"
-  integrity sha512-yKWuGwOE283CTgbEuvqXXusLH4VBXnY2nZbDkeWev+cpAXY6zCIADSPLdvfkAROc0t8S4l07U1fateCdEDuuvg==
+eachr@^4.0.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/eachr/-/eachr-4.1.0.tgz#c1af8923427329b104f8e31210ed358f949b0b4d"
+  integrity sha512-EHOObj2ygRLAWaQ4MASUBl28L0ZhoNTUekkrrF6GVgEdfnBG7PIW5wnsJqkDdgS37VykIdKd7OqigO2Lb97ueg==
   dependencies:
-    editions "^2.2.0"
-    typechecker "^4.9.0"
+    typechecker "^4.10.0"
 
 editions@^2.1.3, editions@^2.2.0:
   version "2.2.0"
@@ -139,15 +137,14 @@ end-of-stream@^1.1.0:
   dependencies:
     once "^1.4.0"
 
-envfile@^3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/envfile/-/envfile-3.1.0.tgz#57121b29da6a6cf3bf155d484fbc75cc2bfc7ded"
-  integrity sha512-7USRi9CnJ+ZOXqvRAX4G5vk//NlwU2zkza9WK+MlUxV9XET7jd2qZfLlWXEjYXVg/u9EZ7nx+fNMFXPpaI4srg==
+envfile@^4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/envfile/-/envfile-4.1.0.tgz#04bf2582fe8da58e665e82f51884c949842101fd"
+  integrity sha512-GqcozD/oRzCPCI/19siQuTbbGOZrmGCdh4ZY5PGfeY+BbQt5rU80mmddeI5vlY9atCWd9FF9BLaA0yurbugVGw==
   dependencies:
-    ambi "^5.1.0"
-    eachr "^3.2.0"
-    editions "^2.2.0"
-    typechecker "^4.9.0"
+    ambi "^6.0.0"
+    eachr "^4.0.0"
+    typechecker "^4.10.0"
 
 errlop@^1.1.2:
   version "1.1.2"
@@ -538,10 +535,10 @@ type-fest@^0.6.0:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.6.0.tgz#8d2a2370d3df886eb5c90ada1c5bf6188acf838b"
   integrity sha512-q+MB8nYR1KDLrgr4G5yemftpMC7/QLqVndBmEEdqzmNj5dcFOO4Oo8qlwZE3ULT3+Zim1F8Kq4cBnikNhlCMlg==
 
-typechecker@^4.9.0:
-  version "4.9.0"
-  resolved "https://registry.yarnpkg.com/typechecker/-/typechecker-4.9.0.tgz#e00a0102f858571c7c5cb8af7f440695decae334"
-  integrity sha512-gN9+YYaQ9N8JZpCHJq0z1thokA5UfpzF3NbCJzJbM/vW7XtEZ5QyGE7I0RrBUEaLHDUf/MUXlmVpnVBDfE6AoQ==
+typechecker@^4.10.0:
+  version "4.11.0"
+  resolved "https://registry.yarnpkg.com/typechecker/-/typechecker-4.11.0.tgz#8219cd90d2f7b585a3f5af9c146c8a23891f1eac"
+  integrity sha512-lz39Mc/d1UBcF/uQFL5P8L+oWdIn/stvkUgHf0tPRW4aEwGGErewNXo2Nb6We2WslWifn00rhcHbbRWRcTGhuw==
   dependencies:
     editions "^2.2.0"
 
