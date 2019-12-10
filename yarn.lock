@@ -23,12 +23,12 @@
   resolved "https://registry.yarnpkg.com/@types/normalize-package-data/-/normalize-package-data-2.4.0.tgz#e486d0d97396d79beedd0a6e33f4534ff6b4973e"
   integrity sha512-f5j5b/Gf71L+dbqxIpQ4Z2WlmI/mPJ0fOkGGmFgtb6sAu97EPczzbS3/tJKxmcYDj55OX6ssqwDAWOHIYDRDGA==
 
-ambi@^6.3.0:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/ambi/-/ambi-6.3.0.tgz#9781dfa2acfcbcdfe64ca8cae715b3f2fbad9ed8"
-  integrity sha512-2xmzr3kCqkDd5lMNMejBgvkYB+kFi9WQVWQxEpIJQPqGsL3kgERBhYOsRfp80KSmmw+MLe9E3u7lVONOWEnG9Q==
+ambi@^6.4.0:
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/ambi/-/ambi-6.4.0.tgz#3eb9cd70888503d06d4bd10f35cf0bfb42334e96"
+  integrity sha512-eMoOhqmD9FNSRdKG2LyEReBEeEGMOYM+2oNmLO0IOXjrPTRfxCGnsQiC/yIbnFNRPOyti54uFYA8NFW2PWfu/Q==
   dependencies:
-    typechecker "^5.1.0"
+    typechecker "^6.2.0"
 
 ansi-styles@^3.2.1:
   version "3.2.1"
@@ -115,12 +115,12 @@ crypto-json@^2.0.0:
   resolved "https://registry.yarnpkg.com/crypto-json/-/crypto-json-2.0.2.tgz#bd961e362ac8ab82d06374207e1aead52ed0e56f"
   integrity sha512-LRLJyAqG58g9cnm9S190ftyz3wq9YwDQVOqYcjuess1gQ+kwm46qzwd9hWzKgCxhZ1ScIP9SVPq0KY1AMWkqwQ==
 
-eachr@^4.3.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/eachr/-/eachr-4.4.0.tgz#9f6de4ad2e7282f300c0605f23c8b5beba119ac5"
-  integrity sha512-QiydM49YD8Mql/wMH8KsDmpjhnkQYBHUDa2J9d0WN6KG1H+uubi7exDaNsI0aPo9MeROODXkTAwf2Ss5+fP9jw==
+eachr@^4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/eachr/-/eachr-4.5.0.tgz#495eb3aab6a41811da1e04e510424df32075cf04"
+  integrity sha512-9I664RWp6p8jvcHZIwo7bWaiSaUmA1wNSLKwNZEiaYjqiTARq3cGjyRiIunsopZv4QMmX3T5Hs17QoPAzdYxfg==
   dependencies:
-    typechecker "^5.1.0"
+    typechecker "^6.2.0"
 
 end-of-stream@^1.1.0:
   version "1.4.1"
@@ -129,14 +129,14 @@ end-of-stream@^1.1.0:
   dependencies:
     once "^1.4.0"
 
-envfile@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/envfile/-/envfile-4.4.0.tgz#7131bb39c81e24d89701c77eae54ff0c96c6a73b"
-  integrity sha512-ixqu6dX5GrzUru69HCLgOKtL7vI9WXcf/sqIcu3lFIaCfzlaAvyThYW0sIgP3WrPKr+MK90pvLLMqThfDmruJA==
+envfile@^4.5.0:
+  version "4.5.0"
+  resolved "https://registry.yarnpkg.com/envfile/-/envfile-4.5.0.tgz#3ca690377714bee899cbcdf6503c01f37868b99b"
+  integrity sha512-y/RIRDYqbb4ng1PtH/VIsnUceo3vBgmOxhJvsh7rwnXokcQMyEV1R9e+so2SekbZise3OqmGFUuXpOL6yZgJ/w==
   dependencies:
-    ambi "^6.3.0"
-    eachr "^4.3.0"
-    typechecker "^5.1.0"
+    ambi "^6.4.0"
+    eachr "^4.5.0"
+    typechecker "^6.2.0"
 
 error-ex@^1.3.1:
   version "1.3.2"
@@ -515,10 +515,10 @@ type-fest@^0.6.0:
   resolved "https://registry.yarnpkg.com/type-fest/-/type-fest-0.6.0.tgz#8d2a2370d3df886eb5c90ada1c5bf6188acf838b"
   integrity sha512-q+MB8nYR1KDLrgr4G5yemftpMC7/QLqVndBmEEdqzmNj5dcFOO4Oo8qlwZE3ULT3+Zim1F8Kq4cBnikNhlCMlg==
 
-typechecker@^5.1.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/typechecker/-/typechecker-5.2.0.tgz#0e4280748085635e2560f234c4b8102b38cea703"
-  integrity sha512-9DQNYzPE9fDJLdh9gBT6pf9359PxZxpBTA/NePMJBTf3GktXSfmmcBSIiwT4UfTj+1IkPeRvZhQfm6pAMpYPQQ==
+typechecker@^6.2.0:
+  version "6.3.0"
+  resolved "https://registry.yarnpkg.com/typechecker/-/typechecker-6.3.0.tgz#c8ee2fee30e1d1156d3063efb9d115c859c3cf5b"
+  integrity sha512-XZmZISfAzrzGHaC2nAwXyh/O1srpTIw/sFS5K0wGRIoWgc+bpGXJLkpI5VoZg9+2SwV6tFIS3WCb3l0bNitLag==
 
 validate-npm-package-license@^3.0.1:
   version "3.0.4"
