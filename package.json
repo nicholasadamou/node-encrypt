@@ -5,7 +5,7 @@
     "devDependencies": {
         "crypto-json": "^2.0.0",
         "envfile": "^4.5.0",
-        "husky": "^4.0.5",
+        "husky": "^4.0.7",
         "json": "^9.0.6",
         "secure-env": "^1.2.0"
     },
