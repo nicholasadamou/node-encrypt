@@ -30,7 +30,7 @@ yarn install
 
 ## License
 
-node-encrypt is © 2018, Nicholas Adamou.
+node-encrypt is © Nicholas Adamou.
 
 It is free software, and may be redistributed under the terms specified in the [LICENSE] file.
 
