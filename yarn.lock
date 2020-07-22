@@ -122,10 +122,10 @@ crypto-json@^2.0.0:
   resolved "https://registry.yarnpkg.com/crypto-json/-/crypto-json-2.0.2.tgz#bd961e362ac8ab82d06374207e1aead52ed0e56f"
   integrity sha512-LRLJyAqG58g9cnm9S190ftyz3wq9YwDQVOqYcjuess1gQ+kwm46qzwd9hWzKgCxhZ1ScIP9SVPq0KY1AMWkqwQ==
 
-envfile@^6.9.0:
-  version "6.9.0"
-  resolved "https://registry.yarnpkg.com/envfile/-/envfile-6.9.0.tgz#443e5a33e608af528c6731b6445fcc912a9860de"
-  integrity sha512-Q8zCEGcWR1B+U0pffOkZY69umUcThpNPn7GmeCZv2OeVMepsIO3l+r1gzA5I5I3K26MviWX7hY5dbOR2PNxTmA==
+envfile@^6.11.0:
+  version "6.11.0"
+  resolved "https://registry.yarnpkg.com/envfile/-/envfile-6.11.0.tgz#394836d9abc423639e3f825529deb49da46a6ebf"
+  integrity sha512-hr7e/xBMcxN8kyISlcKG3Tfpsj4fflUrZ/gPtRtNN99dcGqE/AyYxBEPHxGzGtWDEnQ1PB/vHosGwfjDdeAIWA==
 
 error-ex@^1.3.1:
   version "1.3.2"
