@@ -6,7 +6,7 @@
         "crypto-json": "^2.0.0",
         "envfile": "^6.13.0",
         "husky": "^4.2.5",
-        "json": "^9.0.6",
+        "json": "^10.0.0",
         "secure-env": "^1.2.0"
     },
     "husky": {
